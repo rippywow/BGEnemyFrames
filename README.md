@@ -12,6 +12,6 @@ None
 
 ### How to Install
 
-place BGEnemyFrames folder into your AddOns folder. 
+place BGEnemyFrames (not BGEnemyFrames-master you monkey) folder into your AddOns folder. 
 
 
